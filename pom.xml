@@ -11,7 +11,7 @@
 	<groupId>com.stanostrovskii</groupId>
 	<artifactId>ec2demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>EC2Demo2</name>
 	<description>Basic Spring boot web app to test deployment on AWS EC2</description>
 	<properties>
